@@ -13,22 +13,22 @@ $(document).ready(function() {
 			yparallax: "15px", xparallax: "70px"
 		}, 
 		{
-			yparallax: "20px", xparallax: "75px"
+			yparallax: "false", xparallax: "75px"
 		}, 
 		{
-			yparallax: "25px", xparallax: "80px"
+			yparallax: "false", xparallax: "80px"
 		}, 
 		{
-			yparallax: "30px", xparallax: "100px"
+			yparallax: "false", xparallax: "100px"
 		}, 
 		{
-			yparallax: "35px", xparallax: b
+			yparallax: "false", xparallax: b
 		}, 
 		{
-			yparallax: "40px", xparallax: a
+			yparallax: "false", xparallax: a
 		}, 
 		{
-			yparallax: "40px", xparallax: a
+			yparallax: "false", xparallax: a
 		});
 	}
 
